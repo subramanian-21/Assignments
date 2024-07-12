@@ -9,12 +9,10 @@ public class TemperatureConversion {
          s.close();
     }
     static double celciusToFahrenheit(double celcius){
-
-        return (9/(5*1.0))*celcius+32;
+        return (9/(5.0))*celcius+32;
     }
     static double fahrenheitToCelcius(double fahrenheit){
-        double fl = 5/9;
+        double fl = 5/9.0;
         return fl*(fahrenheit-32);
     }
-
 }
