@@ -6,7 +6,7 @@ public class MultipleClasses {
         SampleClass3 s3 = new SampleClass3();
         //
         MultipleClasses mc = new MultipleClasses();
-        SampleInnerClass s4 = mc.new SampleInnerClass();
+         SampleInnerClass s4 = mc.new SampleInnerClass();
         // or make SampleInnerClass static
         
         s1.sampleFunction();;
@@ -38,3 +38,8 @@ class SampleClass3{
         System.out.println("hello");
     }
 }
+
+/**
+ * 
+ * 
+ */
