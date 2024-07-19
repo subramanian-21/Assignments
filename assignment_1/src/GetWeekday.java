@@ -11,9 +11,9 @@ public class GetWeekday {
         System.out.println(getWeekday(6));
      
     }
-    static Weekdays getWeekday(int dayNumber){
+    static String getWeekday(int dayNumber){
         Weekdays[] day = Weekdays.values();
-        return day[dayNumber-1];
+        return day[dayNumber-1].name().toLowerCase();
     } 
 
     static Weekdays getWeekday2(int dayNumber){
