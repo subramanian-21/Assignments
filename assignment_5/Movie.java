@@ -1,5 +1,5 @@
 package assignment_5;
-class Main{
+class MainClass{
     public static void main(String[] args) {
         Movie movie = new Movie("sample movie", "none", 4.3f);
         movie.getGenre();

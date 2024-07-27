@@ -1,5 +1,5 @@
 package assignment_6;
-class Main{
+class MainLogin{
     /**
      * 1. Write a java program to mimic login of a person (Get username and
      *  password from the user and authenticate). The username and password should 
