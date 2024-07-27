@@ -1,16 +1,22 @@
+import java.util.Scanner;
 public class AverageWeights {
+    static Scanner scanner = new Scanner(System.in);
+
     public static void main(String[] args) {
-        int[] weights = {40,50,32,45,67,21,78,80,92,12,57};
-        double averageWeights = average(weights);
+        
+        System.out.print("Enter Number of Persons :");
+        int numberOfPersons = scanner.nextInt();
+        double averageWeights = average(numberOfPersons);
         System.out.printf("%.2f",averageWeights);
     }
-    static double average(int[] weights){
+    static double average(int numberOfPersons){
         double totalWeights = 0;
-
-        for(int weight : weights){
-            totalWeights+=weight;
+        System.out.print("Enter "+ numberOfPersons +" weights :" );
+        for(int i = 0;i<numberOfPersons;i++){
+            totalWeights+=scanner.nextInt();
         }
-        double totalPeople = weights.length;
+        scanner.close();
+        double totalPeople = numberOfPersons;
 
         return totalWeights/totalPeople;
     }
