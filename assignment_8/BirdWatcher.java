@@ -39,6 +39,7 @@ public class BirdWatcher {
         for(int i = 0;i< birdsPerDay.length;i++){
             if(birdsPerDay[i] >= 5) count++;
         }
+
         return count;
     }
 }
