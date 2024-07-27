@@ -13,6 +13,7 @@ public class BirdWatcher {
         int n = birdsPerDay.length;
         return birdsPerDay[n-1];
     }
+
     public void incrementTodaysCount() {
         birdsPerDay[birdsPerDay.length-1]++;
     }
