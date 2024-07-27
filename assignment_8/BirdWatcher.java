@@ -9,7 +9,6 @@ public class BirdWatcher {
     public int[] getLastWeek() {
        return birdsPerDay.clone();
     }
-
     public int getToday() {
         int n = birdsPerDay.length;
         return birdsPerDay[n-1];
@@ -25,7 +24,6 @@ public class BirdWatcher {
         }
         return false;
     }
-
     public int getCountForFirstDays(int numberOfDays) {
         int sum = 0;
         for(int i = 0;i<numberOfDays && i < birdsPerDay.length ;i++){
@@ -33,7 +31,6 @@ public class BirdWatcher {
         }
         return sum;
     }
-
     public int getBusyDays() {
         int count = 0;
         for(int i = 0;i< birdsPerDay.length;i++){
