@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="28d7d473-dd63-4bf9-8e20-a56152202684" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OOPS/assignment_1/BookDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/assignment_1/EmployeeDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/assignment_1/FlightDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/assignment_1/MovieDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/assignment_1/TwoDTO/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/assignment_1/TwoDTO/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/assignment_1/TwoDTO/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArtOfProblemSolving/assignment_week_1/Diamond.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArtOfProblemSolving/assignment_week_1/Diamond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArtOfProblemSolving/assignment_week_1/IsbnVerifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArtOfProblemSolving/assignment_week_1/IsbnVerifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArtOfProblemSolving/assignment_week_1/ProteinTranslation.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArtOfProblemSolving/assignment_week_1/ProteinTranslation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_1/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_1/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_1/src/AverageWeights.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_1/src/AverageWeights.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_1/src/GetWeekday.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_1/src/GetWeekday.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_1/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_1/src/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_1/src/TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_1/src/TypeCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_1/src/multipleClasses/MultipleClasses$SampleInnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_1/src/multipleClasses/MultipleClasses$SampleInnerClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_1/src/multipleClasses/MultipleClasses.class" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_1/src/multipleClasses/MultipleClasses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_1/src/multipleClasses/MultipleClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_1/src/multipleClasses/MultipleClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_1/src/multipleClasses/SampleClass1.class" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_1/src/multipleClasses/SampleClass1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_1/src/multipleClasses/SampleClass2.class" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_1/src/multipleClasses/SampleClass2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_1/src/multipleClasses/SampleClass3.class" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_1/src/multipleClasses/SampleClass3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_2/Bitwise.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_2/Bitwise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_2/Scope.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_2/Scope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_2/SolveQuadratic.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_2/SolveQuadratic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_2/TemperatureConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_2/TemperatureConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_3/EvenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_3/EvenSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_3/GradeCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_3/GradeCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_3/Greatest.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_3/Greatest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_3/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_3/MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_3/PrintPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_3/PrintPrime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_3/SecondOccurence.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_3/SecondOccurence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_4/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_4/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_4/GameMaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_4/GameMaster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_4/MainPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_4/MainPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_4/MathOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_4/MathOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_4/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_4/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_5/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_5/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_5/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_5/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_5/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_5/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_6/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_6/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_6/MathOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_6/MathOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_7/Capitalise.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_7/Capitalise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_7/CountVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_7/CountVowels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_7/EmailValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_7/EmailValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_7/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_7/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_7/ReverseWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_7/ReverseWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_7/SqueakyClean.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_7/SqueakyClean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_8/BirdWatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_8/BirdWatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_8/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_8/RotateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_8/SpiralMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_8/SpiralMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_8/TransposeMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_8/TransposeMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_8/WeightsArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_8/WeightsArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Zoho_Assignments/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Zoho_Assignments/BirdWatcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Zoho_Assignments/BirdWatcher.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;subramanian-21&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/subramanian-21/Assignments.git&quot;,
+    &quot;accountId&quot;: &quot;c39a888f-976e-4b99-a4e3-8b03a2ae3d90&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2jp9LCQiVdHFH4A80gFq4v13Fuc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BookDTO.executor": "Run",
+    "Application.EmployeeDTO.executor": "Run",
+    "Application.MovieDTO.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28d7d473-dd63-4bf9-8e20-a56152202684" name="Changes" comment="" />
+      <created>1722073095643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722073095643</updated>
+    </task>
+    <servers />
+  </component>
+</project>
