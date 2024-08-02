@@ -3,8 +3,8 @@ package OOPS.assignment_3.shape;
 public class Circle extends Shape{
     public  int radius;
     public double pi;
-    Circle(int radius,String color){
-        super(color);
+    Circle(int radius){
+        super("circle" , 0,0);
         this.radius = radius;
         pi = Math.PI;
     }

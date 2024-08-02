@@ -38,8 +38,3 @@ class SampleClass3{
         System.out.println("hello");
     }
 }
-
-/**
- * 
- * 
- */
