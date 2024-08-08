@@ -6,5 +6,3 @@ public abstract class Document {
     abstract void copy();
     abstract void paste();
 }
-
-

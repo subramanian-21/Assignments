@@ -61,5 +61,4 @@ public class BookDTO {
         System.out.println(book2.toString());
 
     }
-
 }
