@@ -7,7 +7,6 @@ class CalculatorConundrum {
         }
         if(operation.isEmpty()){
             throw new IllegalArgumentException("Operation cannot be empty");
-
         }
         try{
             if(operation.equals("+")){
@@ -22,7 +21,5 @@ class CalculatorConundrum {
         }catch(ArithmeticException e){
             throw new IllegalOperationException("Division by zero is not allowed", e);
         }
-
-
     }
 }

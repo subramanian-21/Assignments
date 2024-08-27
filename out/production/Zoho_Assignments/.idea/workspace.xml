@@ -5,20 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28d7d473-dd63-4bf9-8e20-a56152202684" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OOPS/assignment_7/CustomException/CustomArithmeticException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/assignment_7/CustomException/InvalidInputException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/assignment_7/CustomException/InvalidPhoneNumberException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/assignment_7/CustomException/ZeroException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/assignment_7/InputMismatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/assignment_7/ZeroException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/assignment_7/atm/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/assignment_7/atm/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/assignment_7/atm/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/assignment_7/atm/InsufiicientBalanceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CAD/theater/BookingApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CAD/theater/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CAD/theater/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CAD/theater/Screen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CAD/theater/Seat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CAD/theater/Theater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CAD/theater/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CAD/theater/exceptions/InvalidSeatException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CAD/theater/exceptions/SeatFilledException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSTopicWise/arrays/DecompressedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSTopicWise/arrays/GreatestCandies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSTopicWise/arrays/MatrixDiagonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSTopicWise/arrays/MaximumWealth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSTopicWise/arrays/MedianArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSTopicWise/arrays/OddLengthSubarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSTopicWise/arrays/PrefixStringCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSTopicWise/arrays/RoundString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSTopicWise/arrays/SortedColumns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSTopicWise/arrays/VerifyConcatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSTopicWise/strings/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSTopicWise/strings/RomanNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/assignment_6/university/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/assignment_6/university/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/assignment_7/exercism/CalculatorConundrum.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/assignment_7/exercism/CalculatorConundrum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Zoho_Assignments/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Zoho_Assignments/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Zoho_Assignments/OOPS/assignment_5/remotecontrol/ProductionRemoteControlCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Zoho_Assignments/OOPS/assignment_5/remotecontrol/ProductionRemoteControlCar.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,23 +74,35 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayException.executor": "Run",
     "Application.Bank.executor": "Run",
     "Application.Board.executor": "Run",
     "Application.BookDTO.executor": "Run",
+    "Application.DecompressedList.executor": "Run",
     "Application.EmployeeDTO.executor": "Run",
+    "Application.GreatestCandies.executor": "Run",
     "Application.InputMismatch.executor": "Run",
     "Application.Library.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MatrixDiagonal.executor": "Run",
+    "Application.MedianArray.executor": "Run",
     "Application.MovieDTO.executor": "Run",
     "Application.MovieLibrary.executor": "Run",
+    "Application.OddLengthSubarrays.executor": "Run",
     "Application.Office.executor": "Run",
+    "Application.PrefixStringCount.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.RoundString.executor": "Run",
+    "Application.Screen.executor": "Run",
+    "Application.SortedColumns.executor": "Run",
+    "Application.VerifyConcatenation.executor": "Run",
     "Application.ZSGSStudent.executor": "Run",
     "Application.ZeroException.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/thugperfect/applications/Zoho_Assignments/OOPS/assignment_6/library/members"
+    "last_opened_file_path": "/home/thugperfect/applications/java_test"
   }
 }]]></component>
   <component name="RecentsManager">
