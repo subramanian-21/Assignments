@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28d7d473-dd63-4bf9-8e20-a56152202684" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OOPS/assignment_9/AddAndRemoveInList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/assignment_9/ModifyWithListIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/assignment_9/PrintFirstAndLastInLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/assignment_9/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/assignment_10/DoubleVectorAddPrintSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/assignment_10/InitializeVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/assignment_10/VectorToArrayViceVersa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Zoho_Assignments/OOPS/Assignment_8/AddAndRetrieveFruits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Zoho_Assignments/OOPS/Assignment_8/CharacterArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Zoho_Assignments/OOPS/Assignment_8/InitializeArrayListAndUseIterator.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,9 +62,11 @@
     "Application.BookDTO.executor": "Run",
     "Application.CharacterArrayList.executor": "Run",
     "Application.DecompressedList.executor": "Run",
+    "Application.DoubleVectorAddPrintSize.executor": "Run",
     "Application.EmployeeDTO.executor": "Run",
     "Application.GreatestCandies.executor": "Run",
     "Application.InitializeArrayListAndUseIterator.executor": "Run",
+    "Application.InitializeVector.executor": "Run",
     "Application.InputMismatch.executor": "Run",
     "Application.Library.executor": "Run",
     "Application.Main.executor": "Run",
@@ -81,10 +79,12 @@
     "Application.Office.executor": "Run",
     "Application.PrefixStringCount.executor": "Run",
     "Application.PrintFirstAndLastInLinkedList.executor": "Run",
+    "Application.ReverseLinkedList.executor": "Run",
     "Application.ReverseString.executor": "Run",
     "Application.RoundString.executor": "Run",
     "Application.Screen.executor": "Run",
     "Application.SortedColumns.executor": "Run",
+    "Application.VectorToArrayViceVersa.executor": "Run",
     "Application.VerifyConcatenation.executor": "Run",
     "Application.ZSGSStudent.executor": "Run",
     "Application.ZeroException.executor": "Run",
