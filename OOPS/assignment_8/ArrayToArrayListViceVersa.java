@@ -1,4 +1,4 @@
-package OOPS.Assignment_8;
+package OOPS.assignment_8;
 
 import java.util.Arrays;
 import java.util.List;
