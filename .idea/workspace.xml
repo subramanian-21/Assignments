@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28d7d473-dd63-4bf9-8e20-a56152202684" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OOPS/assignment_10/DoubleVectorAddPrintSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/assignment_10/InitializeVector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/assignment_10/VectorToArrayViceVersa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/assignment_11/PushAndPopIntoStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/assignment_11/ReverseWithStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/assignment_11/StackToArrayViceVersa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/assignment_11/ValidateParenthesis.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Zoho_Assignments/OOPS/assignment_10/VectorToArrayViceVersa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Zoho_Assignments/OOPS/assignment_10/VectorToArrayViceVersa.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,11 +81,14 @@
     "Application.Office.executor": "Run",
     "Application.PrefixStringCount.executor": "Run",
     "Application.PrintFirstAndLastInLinkedList.executor": "Run",
+    "Application.PushAndPopIntoStack.executor": "Run",
     "Application.ReverseLinkedList.executor": "Run",
     "Application.ReverseString.executor": "Run",
+    "Application.ReverseWithStack.executor": "Run",
     "Application.RoundString.executor": "Run",
     "Application.Screen.executor": "Run",
     "Application.SortedColumns.executor": "Run",
+    "Application.ValidateParenthesis.executor": "Run",
     "Application.VectorToArrayViceVersa.executor": "Run",
     "Application.VerifyConcatenation.executor": "Run",
     "Application.ZSGSStudent.executor": "Run",
